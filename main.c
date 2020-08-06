@@ -156,5 +156,7 @@ int main()
     apagaFila(fila0);
     apagaFila(fila1);
 
+	//pakewl
     return 0;
+
 }
