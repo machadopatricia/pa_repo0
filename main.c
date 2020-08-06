@@ -157,6 +157,7 @@ int main()
     apagaFila(fila1);
 
 	//pakewl
+	//obg dani
     return 0;
 
 }
